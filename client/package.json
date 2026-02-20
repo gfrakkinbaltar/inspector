@@ -27,7 +27,7 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.13.1",
     "@radix-ui/react-checkbox": "^1.1.4",
-    "ajv": "^6.12.6",
+    "ajv": "^8.18.0",
     "@radix-ui/react-dialog": "^1.1.3",
     "@radix-ui/react-icons": "^1.3.0",
     "@radix-ui/react-label": "^2.1.0",
@@ -75,6 +75,6 @@
     "ts-jest": "^29.2.6",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.7.0",
-    "vite": "^6.3.0"
+    "vite": "^7.3.1"
   }
 }
